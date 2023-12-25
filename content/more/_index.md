@@ -1,7 +1,7 @@
 ---
 title: "不负此行"
 description: "未来可期"
-featured_image: '/images/q.png'
+featured_image: '/images/q.jpg'
 menu:
   main:
     weight: 1

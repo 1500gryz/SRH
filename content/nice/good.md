@@ -1,7 +1,7 @@
 ---
 title: "汇聚五泉山下"
 description: ""
-featured_image: '/images/w.png'
+featured_image: '/images/w.jpg'
 menu:
   main:
     weight: 1
