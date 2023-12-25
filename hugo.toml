@@ -1,3 +1,4 @@
+baseURL ='https://1500gryz.github.io/SRH/' 
 languageCode = 'en-us'
 publishDir="docs"
 theme = 'ananke'

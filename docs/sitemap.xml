@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://1500gryz.github.io/SRH/readme/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://1500gryz.github.io/SRH/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://1500gryz.github.io/SRH/nice/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/of/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/posts/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/tags/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/more/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/about/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/nice/good/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/posts/post/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/</loc>
+  </url><url>
+    <loc>https://1500gryz.github.io/SRH/of/for/</loc>
   </url>
 </urlset>
