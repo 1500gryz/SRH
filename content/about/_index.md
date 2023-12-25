@@ -1,7 +1,7 @@
 ---
 title: "天上玛多"
 description: "秘境之源"
-featured_image: '/images/r.png'
+featured_image: '/images/r.jpg'
 menu:
   main:
     weight: 1
